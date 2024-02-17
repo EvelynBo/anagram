@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class Anagram {
     public static void main(String[] args) {
 
         System.out.println(getChanges(args[0]));
